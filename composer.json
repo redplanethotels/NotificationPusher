@@ -1,8 +1,8 @@
 {
-    "name": "sly/notification-pusher",
+    "name": "redplanethotels/NotificationPusher",
     "description": "Standalone PHP library for easy devices notifications push.",
     "keywords": ["apple", "iphone", "apns", "android", "gcm", "notification", "message", "push", "pusher"],
-    "homepage": "https://github.com/Ph3nol/NotificationPusher",
+    "homepage": "https://github.com/redplanethotels/NotificationPusher",
     "type": "standalone",
     "license": "MIT",
     "authors": [
